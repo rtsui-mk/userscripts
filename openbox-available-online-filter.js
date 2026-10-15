@@ -3,6 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @version     1.0.0
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=openbox.ca
+// @license MIT
 //
 // @match       https://openbox.ca/*
 // @match       https://www.openbox.ca/*
